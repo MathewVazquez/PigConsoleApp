@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\PigApp\PigLibrary\bin\Debug\net6.0\PigLibrary.deps.json
+C:\Users\Owner\source\repos\PigApp\PigLibrary\bin\Debug\net6.0\PigLibrary.dll
+C:\Users\Owner\source\repos\PigApp\PigLibrary\bin\Debug\net6.0\PigLibrary.pdb
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.AssemblyInfo.cs
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.dll
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\refint\PigLibrary.dll
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\PigLibrary.pdb
+C:\Users\Owner\source\repos\PigApp\PigLibrary\obj\Debug\net6.0\ref\PigLibrary.dll
